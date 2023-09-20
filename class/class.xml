@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="new.xsl" type="text/xsl"?>
+<person>
+    <user>
+        <name>Bhojraj Bhujel</name>
+        <age>22</age>
+        <salary>30,000</salary>
+        <address>aapgacchi</address>
+        <email>bhojrajbhujel@gmail.com</email>
+    </user>
+    <user>
+        <name>Priyanshu Sharma</name>
+        <age>20</age>
+        <salary>20,000</salary>
+        <address>Itahari</address>
+        <email>pks@gmail.com</email>
+    </user>
+    <user>
+        <name>Sirash Rai</name>
+        <age>21</age>
+        <salary>25000</salary>
+        <address>tarara</address>
+        <email>chineserai@gmail.com</email>
+    </user>
+    <user>
+        <name>Niraj Shrestha</name>
+        <age>20</age>
+        <salary>40000</salary>
+        <address>kathmandu</address>
+        <email>Ng@gmail.com</email>
+    </user>
+    <user>
+        <name>Kshitiz Niraula</name>
+        <age>42</age>
+        <salary>50,000</salary>
+        <address>Baliya</address>
+        <email>UncleKshitiz@gmail.com</email>
+    </user>
+</person>

@@ -1,0 +1,13 @@
+<college>
+    <student>
+        <firstname>Manan</firstname>
+        <lastname>Neupane</lastname>
+        <contact>9880461794</contact>
+        <email>austinneupane@gmail.com</email>
+        <address>
+            <city>Inaruwa</city>
+            <state>Koshi</state>
+            <pin>20014</pin>
+        </address>
+    </student>
+</college>

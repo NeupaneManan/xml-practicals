@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tu>
+    <employee
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://mananneupene.com tu.xsd">
+        <post>Teacher</post>
+        <salary>25000</salary>
+        <gender>male</gender>
+        <username>ramhari</username>
+        <password>MananNep</password>
+    </employee>
+
+    <employee>
+        <post>Sweeper</post>
+        <salary>10000</salary>
+        <gender>Male</gender>
+        <username>tikadahal</username>
+        <password>tikawww</password>
+    </employee>
+</tu>

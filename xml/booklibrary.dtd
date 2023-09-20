@@ -1,0 +1,71 @@
+<booklibrary>
+    <book>
+        <title>Web Technology</title>
+        <publication>KEC</publication>
+        <writer>Saroj Ojha</writer>
+        <price>Nrs: 300</price>
+    </book>
+
+    <book>
+        <title>Data Structure and Algorithms</title>
+        <publication>KEC</publication>
+        <writer>Chandra Parsad Acharya </writer>
+        <price>Nrs: 600</price>
+    </book>
+
+    <book>
+        <title>System Analysis and Design</title>
+        <publication>KEC</publication>
+        <writer>Manish Rathi</writer>
+        <price>Nrs 450</price>
+    </book>
+
+    <book>
+        <title>OOPS in Java</title>
+        <publication>KEC</publication>
+        <writer>Saman Kc</writer>
+        <price></price>
+    </book>
+
+    <book>
+        <title></title>
+        <publication></publication>
+        <writer></writer>
+        <price></price>
+    </book>
+
+    <book>
+        <title></title>
+        <publication></publication>
+        <writer></writer>
+        <price></price>
+    </book>
+
+    <book>
+        <title></title>
+        <publication></publication>
+        <writer></writer>
+        <price></price>
+    </book>
+
+    <book>
+        <title></title>
+        <publication></publication>
+        <writer></writer>
+        <price></price>
+    </book>
+
+    <book>
+        <title></title>
+        <publication></publication>
+        <writer></writer>
+        <price></price>
+    </book>
+
+    <book>
+        <title></title>
+        <publication></publication>
+        <writer></writer>
+        <price></price>
+    </book>
+</booklibrary>

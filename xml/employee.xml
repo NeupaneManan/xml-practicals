@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"? standalone="No">
+<employee 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://mananneupene.com employee.xsd">
+    <firstname>Manan</firstname>
+    <lastname>Neupane</lastname>
+    <age>21</age>
+</employee>

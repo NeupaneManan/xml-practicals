@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <user>
+        <name>Bhojraj Bhujel</name>
+        <age>22</age>
+        <salary>30,000</salary>
+        <address>aapgacchi</address>
+        <email>bhojrajbhujel@gmail.com</email>
+    </user>
+</person>

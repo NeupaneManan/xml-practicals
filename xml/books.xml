@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="No"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book>
+        <title name="Sample Title">Think and Grow rich</title>
+        <isbn no="ISBN-12345">0115</isbn>
+        <zipcode>12345</zipcode>
+        <publish year="1995">1st publish</publish>
+        <publish year="1995">2nd publish</publish>
+    </book>
+    <book>
+        <isbn no="ISBN-67890">2448</isbn>
+        <author>Robert Kiosaki</author>
+        <publish year="1995">3rd publish</publish>
+    </book>
+</books>

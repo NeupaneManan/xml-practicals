@@ -1,0 +1,20 @@
+<college>
+    <student>
+        <studentname>
+            <firstname>Manan</firstname>
+            <lastname>Neupane</lastname>
+        </studentname>
+        <major>Humanities</major>
+        <Courses_Enrolled>BCA</Courses_Enrolled>
+        <academic_standings>3rd</academic_standings>
+        <personal_info>
+            <phonenumber>9862910051</phonenumber>
+            <address>
+                <city>Inaruwa</city>
+                <state>Koshi</state>
+                <pin>2004</pin>
+            </address>
+            <email>austinneupane@gmail.com</email>
+        </personal_info>
+    </student>
+</college>

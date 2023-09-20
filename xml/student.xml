@@ -1,0 +1,46 @@
+<Bookrecord>
+
+
+    <book>
+        <name> Web Technology</name>
+        <author>ram krishna Dhakal</author>
+        <price>3rd Edition</price>
+        <edition>1st Edition</edition>
+        <publication>KEC</publication>
+
+    </book>
+    <book>
+        <name> SAD</name>
+        <author>Niraj Shrestha</author>
+        <price>4000</price>
+        <edition>Revised</edition>
+        <publication>KEC</publication>
+
+    </book>
+    <book>
+        <name>Account </name>
+        <author>Bhoje Kumar </author>
+        <price>100</price>
+        <edition>1st Edition</edition>
+        <publication>Asmita</publication>
+
+    </book>
+    <book>
+        <name>DSA </name>
+        <author>Manan Nep</author>
+        <price>1000</price>
+        <edition>4th edition</edition>
+        <publication>Jen</publication>
+
+    </book>
+    <book>
+        <name>Maths </name>
+        <author>Asmita</author>
+        <price>678</price>
+        <edition>4th edition</edition>
+        <publication>rakura</publication>
+
+    </book>
+
+
+</Bookrecord>

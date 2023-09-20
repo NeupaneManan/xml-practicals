@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE TVSCHEDULE[
+<!ELEMENT TVSCHEDULE (channel+)>
+<!ELEMENT channel (banner, day+)>
+<!ELEMENT banner (#PCDATA)>
+<!ELEMENT day (date, (holiday | programslot)+)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT holiday (#PCDATA)>
+<!ELEMENT programslot (time, title, description?)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST TVSCHEDULE Name CDATA #REQUIRED>
+<!ATTLIST channel chan CDATA #REQUIRED>
+<!ATTLIST programslot vtr CDATA #IMPLIED>
+<!ATTLIST title
+    Rating CDATA #IMPLIED
+    Language CDATA #IMPLIED
+>
+]>
+
+<TVSCHEDULE name="pravhuTv"/>
+    <channel chan="sports">
+        <banner>Star sports 1</banner>
+        <day>
+            <date>2012/03/11</date>
+            <holiday>saturday<holiday>
+            <programslot>
+                <time>2:30pm</time>
+                <title>Asia Cup</title>
+                <description>Ind VS Pak</description>
+            </programslot>
+        </day>
+        <day>
+            <date>2012/03/12</date>
+            <programslot>
+                <time>2:30pm</time>
+                <title>World cup</title>
+            </programslot>
+        </day>
+        
+        <channel chan="movies">
+        <banner>Sony</banner>
+        <day>
+            <date>2012/03/11</date>
+            <holiday>saturday<holiday>
+            <programslot>
+                <time>2:30pm</time>
+                <title>KGF</title>
+                <description>Blockbuster Movie</description>
+            </programslot>
+        </day>
+        <day>
+            <date>2012/03/12</date>
+            <programslot>
+                <time>2:30pm</time>
+                <title>Ghost Rider</title>
+            </programslot>
+        </day>
+    </channel>
+
+</TVSCHEDULE>

@@ -1,0 +1,28 @@
+<!DOCTYPE students [
+    <!ELEMENT students (student+)>
+    <!ELEMENT student (name, address+, phone, website)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ATTLIST address type (permanent | temporary) #REQUIRED
+  >
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT website (#PCDATA)>
+]>
+<students>
+    <student>
+        <name>name: Manan Neupane</name>
+        <address type="permanent">Inaruwa</address>
+        <address type="temporary">Itahari</address>
+        <phone type="1010101010">9862910051</phone>
+        <website>mananneupane.com.np</website>
+    </student>
+
+    <student2>
+        <name>Bhojraj Bhujel</name>
+        <address type="parmanent">Itahari</address>
+        <address type="temporary">Bhojpur</address>
+        <phone type="1010101010">9880373828</phone>
+        <website>bhojraj.com.np</website>
+    </student2>
+
+</students>
